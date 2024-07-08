@@ -1,18 +1,18 @@
 const works = [
   {
-    name: "Project Name ",
-    description: "Description",
-    image: "/ph.png",
+    name: "Re-Imagine",
+    description: "The Web Showdown",
+    image: "/project1.png",
   },
   {
-    name: "Project Name ",
-    description: "Description",
-    image: "/ph.png",
+    name: "Essentials",
+    description: "Elements of  design",
+    image: "/project2.png",
   },
   {
-    name: "Project Name ",
-    description: "Description",
-    image: "/ph.png",
+    name: "Creative Edge",
+    description: "A series for designers",
+    image: "/project3.png",
   },
 ];
 
