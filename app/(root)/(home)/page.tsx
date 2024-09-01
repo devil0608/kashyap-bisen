@@ -148,7 +148,11 @@ export default function Home() {
           <div className="bg-white place-self-stretch w-[1px]"></div>
           <div className="font-light ml-16 max-md:ml-0 max-md:flex gap-3">
             <p className="text-white/50">Email:</p>
-            <p>example@gmail.com</p>
+            <p>bisenkashyap@gmail.com</p>
+          </div>
+          <div className="font-light ml-16 max-md:ml-0 max-md:flex gap-3">
+            <p className="text-white/50">Contact:</p>
+            <p>+91 9285114937</p>
           </div>
         </div>
       </section>
